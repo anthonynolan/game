@@ -1,0 +1,43 @@
+{
+    "0": {
+        "name": "The dungeon",
+        "items": [
+            "chain"
+        ]
+    },
+    "1": {
+        "name": "The castle",
+        "items": [
+            "armour"
+        ]
+    },
+    "2": {
+        "name": "shit biscuits",
+        "items": [
+            "gold"
+        ]
+    },
+    "3": {
+        "name": "Dog Central",
+        "items": [
+            "bruno"
+        ]
+    },
+    "4": {
+        "name": "The secret tunnel room",
+        "items": []
+    },
+    "5": {
+        "name": "The Shed",
+        "items": [
+            "BigPig"
+        ]
+    },
+    "6": {
+        "name": "Kweevil's Bedroom",
+        "items": [
+            "Kweevil",
+            "sword"
+        ]
+    }
+}

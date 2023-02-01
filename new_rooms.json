@@ -1,0 +1,81 @@
+[
+    {
+        "viewed": true,
+        "puzzle": {
+            "q": "What is the capital of Belguim?",
+            "a": "Brussels",
+            "points": "3",
+            "asked": false
+        },
+        "desc": "This a cold and miserable place. There are chains nailed into the wall with shackles on the end of them. Lucky for you the door is open.",
+        "name": "The dungeon",
+        "items": [
+            "chain"
+        ]
+    },
+    {
+        "viewed": true,
+        "puzzle": {
+            "q": "What is the square root of 100?",
+            "a": "10",
+            "points": "10",
+            "asked": false
+        },
+        "desc": null,
+        "name": "The castle",
+        "items": [
+            "armour"
+        ]
+    },
+    {
+        "viewed": true,
+        "puzzle": {
+            "q": "1",
+            "a": "1",
+            "points": "1",
+            "asked": false
+        },
+        "desc": "Like biscuits, but shitter",
+        "name": "shit biscuits",
+        "items": [
+            "gold"
+        ]
+    },
+    {
+        "viewed": true,
+        "puzzle": null,
+        "desc": null,
+        "name": "Dog Central",
+        "items": [
+            "bruno"
+        ]
+    },
+    {
+        "viewed": true,
+        "puzzle": null,
+        "desc": null,
+        "name": "The secret tunnel room",
+        "items": [
+            "key"
+        ]
+    },
+    {
+        "viewed": true,
+        "puzzle": null,
+        "desc": null,
+        "name": "The Shed",
+        "items": [
+            "BigPig"
+        ]
+    },
+    {
+        "viewed": true,
+        "puzzle": null,
+        "desc": null,
+        "name": "Kweevil's Bedroom",
+        "items": [
+            "Kweevil",
+            "sword"
+        ]
+    }
+]
